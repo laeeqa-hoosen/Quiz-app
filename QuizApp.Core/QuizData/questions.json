@@ -1,0 +1,177 @@
+[
+  {
+    "Category": "General Knowledge",
+    "Questions": [
+      {
+        "Id": 1,
+        "Text": "What is the largest organ in the human body?",
+        "Options": ["Brain", "Heart", "Liver", "Skin"],
+        "CorrectAnswerIndex": 3
+      },
+      {
+        "Id": 2,
+        "Text": "Which country is the largest by land area?",
+        "Options": ["China", "United States", "Russia", "Canada"],
+        "CorrectAnswerIndex": 2
+      },
+      {
+        "Id": 3,
+        "Text": "What year did the Titanic sink?",
+        "Options": ["1912", "1914", "1918", "1922"],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "Id": 4,
+        "Text": "How many continents are there?",
+        "Options": ["5", "6", "7", "8"],
+        "CorrectAnswerIndex": 2
+      },
+      {
+        "Id": 5,
+        "Text": "What is the chemical symbol for gold?",
+        "Options": ["Gd", "Au", "Ag", "Go"],
+        "CorrectAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "Category": "Technology",
+    "Questions": [
+      {
+        "Id": 1,
+        "Text": "What does the acronym 'HTTP' stand for?",
+        "Options": ["Hyper Text Transfer Program", "High Tech Transfer Protocol", "Hypertext Transfer Protocol", "Hyperlink Transfer Protocol"],
+        "CorrectAnswerIndex": 2
+      },
+      {
+        "Id": 2,
+        "Text": "Which programming language is often used for data science and machine learning?",
+        "Options": ["C#", "Java", "Python", "Ruby"],
+        "CorrectAnswerIndex": 2
+      },
+      {
+        "Id": 3,
+        "Text": "What company developed the Android operating system?",
+        "Options": ["Apple", "Microsoft", "Samsung", "Google"],
+        "CorrectAnswerIndex": 3
+      },
+      {
+        "Id": 4,
+        "Text": "What is the name of the first computer virus?",
+        "Options": ["The Creeper", "The Trojan", "The Virus 1.0", "The Malware"],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "Id": 5,
+        "Text": "What does 'DNS' stand for in networking?",
+        "Options": ["Data Naming System", "Domain Name System", "Digital Network Service", "Dynamic Naming Service"],
+        "CorrectAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "Category": "Film and Literature",
+    "Questions": [
+      {
+        "Id": 1,
+        "Text": "Who wrote the novel To Kill a Mockingbird?",
+        "Options": ["J.K. Rowling", "George Orwell", "Harper Lee", "Mark Twain"],
+        "CorrectAnswerIndex": 2
+      },
+      {
+        "Id": 2,
+        "Text": "In which film would you hear the line, 'May the Force be with you'?",
+        "Options": ["The Matrix", "Star Wars", "The Lord of the Rings", "Harry Potter"],
+        "CorrectAnswerIndex": 1
+      },
+      {
+        "Id": 3,
+        "Text": "What is the name of the magical school in the Harry Potter series?",
+        "Options": ["Beauxbatons Academy", "Durmstrang Institute", "Hogwarts School of Witchcraft and Wizardry", "Ilvermorny School of Witchcraft and Wizardry"],
+        "CorrectAnswerIndex": 2
+      },
+      {
+        "Id": 4,
+        "Text": "Who directed the movie Jaws?",
+        "Options": ["Steven Spielberg", "George Lucas", "Alfred Hitchcock", "Martin Scorsese"],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "Id": 5,
+        "Text": "Which author created the character Sherlock Holmes?",
+        "Options": ["Agatha Christie", "Edgar Allan Poe", "Sir Arthur Conan Doyle", "Jules Verne"],
+        "CorrectAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "Category": "Science",
+    "Questions": [
+      {
+        "Id": 1,
+        "Text": "What is the process by which plants make their own food?",
+        "Options": ["Photosynthesis", "Respiration", "Transpiration", "Germination"],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "Id": 2,
+        "Text": "How many bones are in the adult human skeleton?",
+        "Options": ["200", "206", "210", "212"],
+        "CorrectAnswerIndex": 1
+      },
+      {
+        "Id": 3,
+        "Text": "What gas do plants absorb from the atmosphere?",
+        "Options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+        "CorrectAnswerIndex": 2
+      },
+      {
+        "Id": 4,
+        "Text": "What is the study of living organisms called?",
+        "Options": ["Geology", "Astronomy", "Biology", "Chemistry"],
+        "CorrectAnswerIndex": 2
+      },
+      {
+        "Id": 5,
+        "Text": "What is the boiling point of water in Celsius?",
+        "Options": ["0°C", "50°C", "90°C", "100°C"],
+        "CorrectAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "Category": "History",
+    "Questions": [
+      {
+        "Id": 1,
+        "Text": "Who was the first person to step on the moon?",
+        "Options": ["Buzz Aldrin", "Michael Collins", "Neil Armstrong", "John Glenn"],
+        "CorrectAnswerIndex": 2
+      },
+      {
+        "Id": 2,
+        "Text": "In what city was the Declaration of Independence signed?",
+        "Options": ["Boston", "Philadelphia", "New York", "Washington D.C."],
+        "CorrectAnswerIndex": 1
+      },
+      {
+        "Id": 3,
+        "Text": "Who was the leader of the Soviet Union during World War II?",
+        "Options": ["Vladimir Lenin", "Leonid Brezhnev", "Joseph Stalin", "Nikita Khrushchev"],
+        "CorrectAnswerIndex": 2
+      },
+      {
+        "Id": 4,
+        "Text": "What was the name of the ship that brought the Pilgrims to America?",
+        "Options": ["Santa Maria", "The Discovery", "The Pinta", "The Mayflower"],
+        "CorrectAnswerIndex": 3
+      },
+      {
+        "Id": 5,
+        "Text": "The Great Wall of China was built to protect against invasions from which group?",
+        "Options": ["The Japanese", "The Mongols", "The Huns", "The Koreans"],
+        "CorrectAnswerIndex": 1
+      }
+    ]
+  }
+]
